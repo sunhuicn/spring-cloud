@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="admin-server" />
+        <module name="bus-server" />
+        <module name="cloud" />
+        <module name="commons-service" />
+        <module name="config-server" />
+        <module name="config-service" />
+        <module name="eureka-server" />
+        <module name="feign-consumer" />
+        <module name="gateway-server" />
+        <module name="gateway-service" />
+        <module name="hystrix-dashboard" />
+        <module name="registry-service" />
+        <module name="ribbon-consumer" />
+        <module name="service-provider" />
+        <module name="sleuth-server" />
+        <module name="sleuth-service" />
+        <module name="zipkin-server" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

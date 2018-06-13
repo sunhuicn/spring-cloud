@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="078f9381-fc2e-4a8b-8ffc-a3ec2e6b2f72" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-service/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/service-provider/target/" />
+    <ignored path="$PROJECT_DIR$/service-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/ribbon-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/admin-service/target/" />
+    <ignored path="$PROJECT_DIR$/admin-server/target/" />
+    <ignored path="D:/okay/base_service/registry-service/target/" />
+    <ignored path="D:/okay/base_service/sleuth-service/target/" />
+    <ignored path="D:/okay/base_service/gateway-service/target/" />
+    <ignored path="D:/okay/base_service/commons-service/target/" />
+    <ignored path="D:/okay/base_service/config-service/target/" />
+    <ignored path="D:/okay/base_service/target/" />
+    <ignored path="$PROJECT_DIR$/config-server/target/" />
+    <ignored path="$PROJECT_DIR$/hystrix-dashboard/target/" />
+    <ignored path="$PROJECT_DIR$/turbine/target/" />
+    <ignored path="$PROJECT_DIR$/feign-donsumer/target/" />
+    <ignored path="$PROJECT_DIR$/feign-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/gateway-server/target/" />
+    <ignored path="$PROJECT_DIR$/rabbitmq-server/target/" />
+    <ignored path="$PROJECT_DIR$/bus-server/target/" />
+    <ignored path="$PROJECT_DIR$/sleuth-server/target/" />
+    <ignored path="$PROJECT_DIR$/zipkin-server/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/cloud$EurekaServerApplication.ic" NAME="EurekaServerApplication Coverage Results" MODIFIED="1528425780213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-provider/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="56" selection-start-line="56" selection-end-line="60" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application-service1.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-provider/src/main/resources/application-service1.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="13" selection-start-line="13" selection-start-column="1" selection-end-line="14" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application-service2.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-provider/src/main/resources/application-service2.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GatewayServerApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gateway-server/src/main/java/com/noreiental/gatewayserver/GatewayServerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#527#528#0" expanded="true" />
+                <element signature="e#568#569#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin-server/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3">
+              <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin-server/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminServerApplication.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin-server/src/main/java/com/noriental/adminserver/AdminServerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gateway-server/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="864">
+              <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gateway-server/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccessFilter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gateway-server/src/main/java/com/noreiental/gatewayserver/AccessFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="10" column="95" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="95" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/okay/base_service" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/admin-server/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/config-server/src/main/java/com/noriental/configserver/ConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/eureka-server/src/main/resources/application-peer1.properties" />
+        <option value="$PROJECT_DIR$/ribbon-consumer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/ribbon-consumer/src/main/java/com/noriental/ribbonconsumer/service/ConsumerService.java" />
+        <option value="$PROJECT_DIR$/ribbon-consumer/src/main/java/com/noriental/ribbonconsumer/controller/ConsumerController.java" />
+        <option value="$PROJECT_DIR$/hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/hystrix-dashboard/src/main/java/com/noriental/hystrixdashboard/HystrixDashboardApplication.java" />
+        <option value="$PROJECT_DIR$/hystrix-dashboard/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/ribbon-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon-consumer/src/main/java/com/noriental/ribbonconsumer/RibbonConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/turbine/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/turbine/pom.xml" />
+        <option value="$PROJECT_DIR$/turbine/src/main/java/com/noriental/turbine/TurbineApplication.java" />
+        <option value="$PROJECT_DIR$/feign-donsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/feign-donsumer/src/main/java/com/noriental/feigndonsumer/FeignDonsumerApplication.java" />
+        <option value="$PROJECT_DIR$/feign-consumer/src/main/java/com/noriental/feignconsumer/FeignConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/feign-consumer/src/main/java/com/noriental/feignconsumer/ConsumerService.java" />
+        <option value="$PROJECT_DIR$/service-provider/src/main/java/com/noriental/serviceprodiver/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/feign-consumer/src/main/java/com/noriental/feignconsumer/controller/ConsumerController.java" />
+        <option value="$PROJECT_DIR$/gateway-server/src/main/java/com/noreiental/gatewayserver/GatewayServerApplication.java" />
+        <option value="$PROJECT_DIR$/gateway-server/src/main/java/com/noreiental/gatewayserver/AccessFilter.java" />
+        <option value="$PROJECT_DIR$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/rabbitmq-server/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/bus-server/pom.xml" />
+        <option value="$PROJECT_DIR$/bus-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/sleuth-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/sleuth-server/src/main/java/com/noriental/sleuthserver/SleuthServerApplication.java" />
+        <option value="$PROJECT_DIR$/sleuth-server/pom.xml" />
+        <option value="$PROJECT_DIR$/bus-server/src/main/java/com/noriental/busserver/BusServerApplication.java" />
+        <option value="$PROJECT_DIR$/zipkin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/zipkin-server/src/main/java/com/noriental/zipkinserver/ZipkinServerApplication.java" />
+        <option value="$PROJECT_DIR$/service-provider/src/main/java/com/noriental/serviceprodiver/ServiceProviderApplication.java" />
+        <option value="$PROJECT_DIR$/admin-server/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/admin-server/src/main/java/com/noriental/adminserver/AdminServerApplication.java" />
+        <option value="$PROJECT_DIR$/admin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/admin-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server/src/main/java/com/noriental/eurekaserver/EurekaServerApplication.java" />
+        <option value="$PROJECT_DIR$/eureka-server/src/main/resources/application-eureka1.properties" />
+        <option value="$PROJECT_DIR$/eureka-server/src/main/resources/application-eureka2.properties" />
+        <option value="$PROJECT_DIR$/feign-consumer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/feign-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/service-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/service-provider/src/main/resources/application-service1.properties" />
+        <option value="$PROJECT_DIR$/service-provider/src/main/resources/application-service2.properties" />
+        <option value="$PROJECT_DIR$/gateway-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/gateway-server/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\Admin\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eureka-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eureka-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-119" />
+    <option name="y" value="59" />
+    <option name="width" value="1294" />
+    <option name="height" value="525" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="service-provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="service-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="service-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="service-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="D:/okay/base_service/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspaceIDEA\cloud\service-provider\src\main\resources" />
+      <recent name="D:\workspaceIDEA\cloud\admin-server\src\main\resources" />
+      <recent name="D:\workspaceIDEA\cloud\eureka-server\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.24167313" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.AdminServerApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="AdminServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="admin-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.noriental.adminserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.noriental.adminserver.AdminServerApplication" />
+    </configuration>
+    <configuration name="BusServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bus-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.noriental.busserver.BusServerApplication" />
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.noriental.configserver.ConfigServerApplication" />
+    </configuration>
+    <configuration name="FeignConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="feign-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.noriental.feignconsumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.noriental.feignconsumer.FeignConsumerApplication" />
+    </configuration>
+    <configuration name="GatewayServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gateway-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.noreiental.gatewayserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.noreiental.gatewayserver.GatewayServerApplication" />
+    </configuration>
+    <configuration name="HystrixDashboardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hystrix-dashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.noriental.hystrixdashboard.HystrixDashboardApplication" />
+    </configuration>
+    <configuration name="RibbonConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ribbon-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.noriental.ribbonconsumer.RibbonConsumerApplication" />
+    </configuration>
+    <configuration name="SleuthServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="sleuth-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.noriental.sleuthserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.noriental.sleuthserver.SleuthServerApplication" />
+    </configuration>
+    <configuration name="ZipkinServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zipkin-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.noriental.zipkinserver.ZipkinServerApplication" />
+    </configuration>
+    <configuration name="eureka1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.noriental.eurekaserver.EurekaServerApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=eureka1" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="eureka2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.noriental.eurekaserver.EurekaServerApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=eureka2" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="service-provider1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.noriental.serviceprodiver.ServiceProviderApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=service1" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="service-provider2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.noriental.serviceprodiver.ServiceProviderApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=service2" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.eureka1" />
+      <item itemvalue="Spring Boot.eureka2" />
+      <item itemvalue="Spring Boot.RibbonConsumerApplication" />
+      <item itemvalue="Spring Boot.service-provider1" />
+      <item itemvalue="Spring Boot.service-provider2" />
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="Spring Boot.HystrixDashboardApplication" />
+      <item itemvalue="Spring Boot.ZipkinServerApplication" />
+      <item itemvalue="Spring Boot.BusServerApplication" />
+      <item itemvalue="Spring Boot.AdminServerApplication" />
+      <item itemvalue="Spring Boot.FeignConsumerApplication" />
+      <item itemvalue="Spring Boot.GatewayServerApplication" />
+      <item itemvalue="Spring Boot.SleuthServerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AdminServerApplication" />
+        <item itemvalue="Spring Boot.GatewayServerApplication" />
+        <item itemvalue="Spring Boot.FeignConsumerApplication" />
+        <item itemvalue="Spring Boot.SleuthServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="078f9381-fc2e-4a8b-8ffc-a3ec2e6b2f72" name="Default" comment="" />
+      <created>1528420457663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528420457663</updated>
+      <workItem from="1528420461395" duration="19452000" />
+      <workItem from="1528448974316" duration="42647000" />
+      <workItem from="1528703225696" duration="9116000" />
+      <workItem from="1528766887600" duration="708000" />
+      <workItem from="1528767885488" duration="26653000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="98576000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.20751634" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.30332828" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="0" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.5040783" />
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.43729374" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info id="Image Layers" order="1" />
+      <window_info anchor="bottom" id="Java Enterprise" order="4" weight="0.32843137" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="0" sideWeight="0.49924356" visible="true" weight="0.67161715" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.5313531" />
+      <window_info anchor="bottom" id="Spring" order="1" weight="0.32843137" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32843137" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.33282906" />
+      <window_info anchor="right" id="Bean Validation" order="6" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.21633889" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/rabbitmq-server/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/rabbitmq-server/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/bus-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ribbon-consumer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bus-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/okay/base_service/sleuth-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/okay/base_service/sleuth-service/src/main/java/com/qitoon/base/service/sleuth/StreamServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Admin/.m2/repository/org/springframework/boot/spring-boot-starter-test/2.0.2.RELEASE/spring-boot-starter-test-2.0.2.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sleuth-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="59" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sleuth-server/src/main/java/com/noriental/sleuthserver/SleuthServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-251">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sleuth-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1029">
+          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hystrix-dashboard/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1215" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hystrix-dashboard/src/main/java/com/noriental/hystrixdashboard/HystrixDashboardApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-provider/src/main/java/com/noriental/serviceprodiver/ServiceProviderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ribbon-consumer/src/main/java/com/noriental/ribbonconsumer/RibbonConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ribbon-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/java/com/noriental/configserver/ConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-server/src/main/java/com/noriental/zipkinserver/ZipkinServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bus-server/src/main/java/com/noriental/busserver/BusServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/okay/base_service/admin-service/src/main/resources/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/okay/base_service/admin-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="19" selection-start-line="19" selection-end-line="46" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/okay/base_service/admin-service/src/main/java/com/qitoon/base/service/adminService/AdminServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/okay/base_service/admin-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin-server/src/test/java/com/noriental/adminserver/AdminServerApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin-server/admin-server.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin-server/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-provider/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin-server/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-provider/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-provider/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server/src/main/java/com/noriental/eurekaserver/EurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server/src/main/resources/application-eureka1.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" selection-start-line="21" selection-start-column="1" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server/src/main/resources/application-eureka2.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feign-consumer/src/main/java/com/noriental/feignconsumer/FeignConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feign-consumer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feign-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="59" column="47" selection-start-line="59" selection-start-column="47" selection-end-line="59" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="56" selection-start-line="56" selection-end-line="60" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-provider/src/main/resources/application-service1.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="13" selection-start-line="13" selection-start-column="1" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-provider/src/main/resources/application-service2.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-server/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-86">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-server/src/main/java/com/noreiental/gatewayserver/AccessFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="95" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="95" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-server/src/main/java/com/noreiental/gatewayserver/GatewayServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin-server/src/main/java/com/noriental/adminserver/AdminServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cloud</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
